@@ -2,7 +2,7 @@
 
 ## Setup
 1. Clone the repository : https://github.com/ni3patil2601/EntrataSeleniumTestSuite/tree/main/EntrataProject
-2.Path to TestCase : EntrataProject/src/test/java/Entrata/com/entrataTestCaase.java
+2. Path to TestCase : EntrataProject/src/test/java/Entrata/com/entrataTestCaase.java
 3. Open the project in IntelliJ IDEA or Eclipse.
 
 ## Running the Tests
